@@ -11,4 +11,6 @@ Criar WebPage que requisita um CEP e que, ao encontrar o CEP na API do ViaCEP re
 
 
 # Desafio 
-Conseguir hospedar em alguma plataforma cloud como Heroku ou Railways.
+- Também acessar a API OpenWheatherMap para trazer dados sobre o clioma do cep local.
+- Hospedar em alguma plataforma cloud como Heroku ou Railways.
+
